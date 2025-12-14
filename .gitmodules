@@ -1,0 +1,21 @@
+[submodule "AccesoADatos_CM"]
+	path = AccesoADatos_CM
+	url = https://github.com/ieltxuah/AccesoADatos_CM.git
+[submodule "DesarrolloDeInterfaces_CM"]
+	path = DesarrolloDeInterfaces_CM
+	url = https://github.com/ieltxuah/DesarrolloDeInterfaces_CM.git
+[submodule "DataAnalytics_CM"]
+	path = DataAnalytics_CM
+	url = https://github.com/ieltxuah/DataAnalytics_CM.git
+[submodule "ProgramacionMultimediaYDispositivosMoviles_CM"]
+	path = ProgramacionMultimediaYDispositivosMoviles_CM
+	url = https://github.com/ieltxuah/ProgramacionMultimediaYDispositivosMoviles_CM.git
+[submodule "ProgramacionDeServiciosYProcesos_CM"]
+	path = ProgramacionDeServiciosYProcesos_CM
+	url = https://github.com/ieltxuah/ProgramacionDeServiciosYProcesos_CM.git
+[submodule "SistemasDeGestionEmpresarial_CM"]
+	path = SistemasDeGestionEmpresarial_CM
+	url = https://github.com/ieltxuah/SistemasDeGestionEmpresarial_CM.git
+[submodule "SistemasInformaticos_CM"]
+	path = SistemasInformaticos_CM
+	url = https://github.com/ieltxuah/SistemasInformaticos_CM.git
