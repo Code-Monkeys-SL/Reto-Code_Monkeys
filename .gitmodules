@@ -1,21 +1,21 @@
-[submodule "AccesoADatos_CM"]
-	path = AccesoADatos_CM
-	url = https://github.com/ieltxuah/AccesoADatos_CM.git
-[submodule "DesarrolloDeInterfaces_CM"]
-	path = DesarrolloDeInterfaces_CM
-	url = https://github.com/ieltxuah/DesarrolloDeInterfaces_CM.git
-[submodule "DataAnalytics_CM"]
-	path = DataAnalytics_CM
-	url = https://github.com/ieltxuah/DataAnalytics_CM.git
-[submodule "ProgramacionMultimediaYDispositivosMoviles_CM"]
-	path = ProgramacionMultimediaYDispositivosMoviles_CM
-	url = https://github.com/ieltxuah/ProgramacionMultimediaYDispositivosMoviles_CM.git
-[submodule "ProgramacionDeServiciosYProcesos_CM"]
-	path = ProgramacionDeServiciosYProcesos_CM
-	url = https://github.com/ieltxuah/ProgramacionDeServiciosYProcesos_CM.git
-[submodule "SistemasDeGestionEmpresarial_CM"]
-	path = SistemasDeGestionEmpresarial_CM
-	url = https://github.com/ieltxuah/SistemasDeGestionEmpresarial_CM.git
-[submodule "SistemasInformaticos_CM"]
-	path = SistemasInformaticos_CM
-	url = https://github.com/ieltxuah/SistemasInformaticos_CM.git
+[submodule "AccesoADatos"]
+	path = AccesoADatos
+	url = https://github.com/Code-Monkeys-SL/AccesoADatos.git
+[submodule "DataAnalytics"]
+	path = DataAnalytics
+	url = https://github.com/Code-Monkeys-SL/DataAnalytics.git
+[submodule "DesarrolloDeInterfaces"]
+	path = DesarrolloDeInterfaces
+	url = https://github.com/Code-Monkeys-SL/DesarrolloDeInterfaces.git
+[submodule "ProgramacionDeServiciosYProcesos"]
+	path = ProgramacionDeServiciosYProcesos
+	url = https://github.com/Code-Monkeys-SL/ProgramacionDeServiciosYProcesos.git
+[submodule "ProgramacionMultimediaYDispositivosMoviles"]
+	path = ProgramacionMultimediaYDispositivosMoviles
+	url = https://github.com/Code-Monkeys-SL/ProgramacionMultimediaYDispositivosMoviles.git
+[submodule "SistemasDeGestionEmpresarial"]
+	path = SistemasDeGestionEmpresarial
+	url = https://github.com/Code-Monkeys-SL/SistemasDeGestionEmpresarial.git
+[submodule "SistemasInformaticos"]
+	path = SistemasInformaticos
+	url = https://github.com/Code-Monkeys-SL/SistemasInformaticos.git
