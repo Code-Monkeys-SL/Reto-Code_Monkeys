@@ -1,9 +1,6 @@
 [submodule "AccesoADatos"]
 	path = AccesoADatos
 	url = https://github.com/Code-Monkeys-SL/AccesoADatos.git
-[submodule "DataAnalytics"]
-	path = DataAnalytics
-	url = https://github.com/Code-Monkeys-SL/DataAnalytics.git
 [submodule "DesarrolloDeInterfaces"]
 	path = DesarrolloDeInterfaces
 	url = https://github.com/Code-Monkeys-SL/DesarrolloDeInterfaces.git
