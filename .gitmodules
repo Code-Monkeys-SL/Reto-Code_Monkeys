@@ -16,6 +16,3 @@
 [submodule "SistemasDeGestionEmpresarial"]
 	path = SistemasDeGestionEmpresarial
 	url = https://github.com/Code-Monkeys-SL/SistemasDeGestionEmpresarial.git
-[submodule "SistemasInformaticos"]
-	path = SistemasInformaticos
-	url = https://github.com/Code-Monkeys-SL/SistemasInformaticos.git
